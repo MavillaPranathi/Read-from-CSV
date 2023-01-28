@@ -17,9 +17,7 @@ Print the output.
 ## PROGRAM:
 ```
 Developed by : M.PRANATHI
-
 Register Number : 22005710
-
 import pandas as pd
 f=pd.read_csv('nba.csv')
 print(f.head(10))
